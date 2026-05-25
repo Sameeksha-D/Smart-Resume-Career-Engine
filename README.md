@@ -61,6 +61,16 @@ Analysis includes:
 
 ---
 
+
+## Resume Builder
+
+Users can create professional resumes by providing their background information, technical skills, projects, and experience.
+
+### Resume Builder Interface
+
+![Resume Builder](images/resume-builder.png)
+
+---
 ## Resume Generation
 
 The system automatically generates a structured professional resume using the provided skills, experience, and project information.
@@ -75,16 +85,6 @@ Benefits include:
 ### Resume Generation Output
 
 ![Resume Generation](images/resume-generation-output.png)
-
----
-
-## Resume Builder
-
-Users can create professional resumes by providing their background information, technical skills, projects, and experience.
-
-### Resume Builder Interface
-
-![Resume Builder](images/resume-builder.png)
 
 ---
 
